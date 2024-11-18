@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  margin: 0.5rem 0;
+}
+
+div {
+  box-sizing: border-box;
+}
